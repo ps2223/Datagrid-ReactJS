@@ -54,10 +54,6 @@ npm run dev
 Start Storybook
 npm run storybook
 
-Runs at:
-
-http://localhost:6006
-
 
 
 🏗️ Features Implemented
